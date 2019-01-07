@@ -27,3 +27,4 @@ Thumbs.db
 # CMake #
 cmake-build-debug/
 CMakeLists.txt
+.idea/*
